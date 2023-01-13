@@ -10,7 +10,7 @@
 
 <picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 300px></picture>
 
-<br>
+<br><br>
 
 - :school: I am a `Student` at [INSTITUTE ASIA MALANG](https://ftd.asia.ac.id/).
 - :man_technologist: I’m currently learning `Front-end web` especially in `React`.
@@ -18,8 +18,7 @@
 - :nerd_face: Always `Learning new things`.
 - :grinning: I’m currently open for a new `Job opportunity`, this is [MY RESUME](https://agililham.github.io/resume/).
 
-<br>
-<br>
+<br><br><br>
 
 ## 🐍 A Snake Eating my Contributions Graph
 <p align = "center">
