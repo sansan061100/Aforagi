@@ -17,3 +17,10 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `Learning new things`.
 - :grinning: I’m currently open for a new `Job opportunity`, this is [MY RESUME](https://agililham.github.io/resume/).
+
+<br>
+
+## 🐍 A Snake Eating my Contributions Graph
+<p align = "center">
+	<img src = "https://github.com/Agililham/Agililham/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
