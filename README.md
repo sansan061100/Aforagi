@@ -6,15 +6,14 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/Agililham/Agililham/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Agililham/Agililham/blob/main/images/about.me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 240px></picture>
 
-<br>
+<br><br>
 
 - :school: I am a `Student` at [INSTITUTE ASIA MALANG](https://ftd.asia.ac.id/).
 - :man_technologist: I’m currently learning `Front-end web` especially in `React`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `Learning new things`.
-- :grinning: I’m currently open for a new `Job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-
+- :grinning: I’m currently open for a new `Job opportunity`, this is [MY RESUME](https://agililham.github.io/resume/).
