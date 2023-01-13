@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://github.com/Agililham/Agililham/blob/main/images/about.me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 260px></picture>
+<picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 270px></picture>
 
 <br><br>
 
