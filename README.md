@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://github.com/Agililham/Agililham/blob/main/images/about.me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 240px></picture>
+<picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 300px></picture>
 
 <br><br>
 
@@ -18,6 +18,7 @@
 - :nerd_face: Always `Learning new things`.
 - :grinning: I’m currently open for a new `Job opportunity`, this is [MY RESUME](https://agililham.github.io/resume/).
 
+<br>
 <br>
 
 ## 🐍 A Snake Eating my Contributions Graph
