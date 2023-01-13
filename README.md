@@ -18,7 +18,7 @@
 - :nerd_face: Always `Learning new things`.
 - :grinning: I’m currently open for a new `Job opportunity`, this is [MY RESUME](https://agililham.github.io/resume/).
 
-<br><br><br>
+<br><br>
 
 ## 🐍 A Snake Eating my Contributions Graph
 <p align = "center">
