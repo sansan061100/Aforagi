@@ -12,11 +12,11 @@
 
 <br><br>
 
-- :school: I am a `Student` at [INSTITUTE ASIA MALANG](https://ftd.asia.ac.id/).
-- :man_technologist: I’m currently learning `Front-end web` especially in `React`.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `Learning new things`.
-- :grinning: I'm trying to finish all the material on `Freecodecamp`.
+- :school: I am `Undergraduate` and currently working from `Home`
+- :man_technologist: I’m currently learning `Front-end web` especially in `React`
+- :technologist: I love using Software as a solution for every `Problem`
+- :nerd_face: Always `Learning new things`
+- :grinning: I'm trying to finish all the material on `Freecodecamp`
 
 <br><br>
 
