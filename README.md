@@ -16,7 +16,7 @@
 - :man_technologist: I’m currently learning `Front-end web` especially in `React`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `Learning new things`.
-- :grinning: I’m currently open for a new `Job opportunity`, this is [MY RESUME](https://agililham.github.io/resume/).
+- :grinning: I'm trying to finish all the material on `Freecodecamp`.
 
 <br><br>
 
