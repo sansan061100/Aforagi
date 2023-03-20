@@ -6,9 +6,9 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/Agililham/Agililham/blob/main/images/about.me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Aforagi/Aforagi/blob/main/images/about.me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Agililham/Agililham/blob/main/images/right_side.gif?raw=true" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/Aforagi/Aforagi/blob/main/images/right_side.gif?raw=true" width = 300px></picture>
 
 <br><br>
 
@@ -22,5 +22,5 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 <p align = "center">
-	<img src = "https://github.com/Agililham/Agililham/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/Aforagim/Aforagi/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
